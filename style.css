@@ -18,14 +18,17 @@ div,
     font-weight: 800;
     font-size: 20px;
     text-align: center;
-    width: 450px;
+    padding: 8px;
+    margin-right: 60%;
 }
 
 .para {
     font-size: 28px;
     text-align: center;
-    width: 300px;
+    padding: 8px;
+    margin-right: 75%;
 }
+
 img,
 .jeff {
     
@@ -34,3 +37,11 @@ img,
     margin-left: 40px;
 }
 
+button,
+btn {
+
+    font-size: 18px;
+    color: black;
+    background-color: wheat;
+    padding: 3px;
+}
